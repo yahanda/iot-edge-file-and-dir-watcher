@@ -1,4 +1,4 @@
-# iot-edge-filewatcher
+# iot-edge-file-and-dir-watcher
 
 Azure IoT Edge module which monitors file/directory creation and puts the filename/dirname as messages on the IoT Edge routing 
 
